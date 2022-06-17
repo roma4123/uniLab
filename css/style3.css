@@ -26,20 +26,20 @@ body {
 }
 
 .box:nth-child(3n) {
-  background-image: url(/images/d476b3c0435220b34d27361d19a76079.jpg);
+  background-image: url(images/d476b3c0435220b34d27361d19a76079.jpg);
   background-size: cover;
 }
 
 .box:nth-child(3n + 2) {
-  background-image: url(/images/0922e805838e52adbbbb1f2b5463573d.jpg);
+  background-image: url(images/0922e805838e52adbbbb1f2b5463573d.jpg);
   background-size: cover;
 }
 .box:nth-child(3n + 1) {
-  background-image: url(/images/dcdd2f32ec92d30324ea59e9de21a1bb.jpg);
+  background-image: url(images/dcdd2f32ec92d30324ea59e9de21a1bb.jpg);
   background-size: cover;
 }
 .box:nth-child(3n-1) {
-  background-image: url(/images/02fd93a9de75852447f36729c4292c10.jpg);
+  background-image: url(images/02fd93a9de75852447f36729c4292c10.jpg);
   background-size: cover;
 }
 
