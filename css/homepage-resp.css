@@ -19,6 +19,8 @@
         height: auto;
         flex-direction: column;
     }
+
+   
     .image-1{
         width: 100%;
         height: auto;
@@ -33,11 +35,24 @@
     .sec-text{
         width: 250px;
         left: 40%;
-        top: 50%;       
+        top: 50%;    
     }
     .sec-text hr{
-        width: 240px;
+        width: 230px;
+        margin-bottom: 10px;
     }
+    .sec-text h1{
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .sec-text h2{
+        font-size: 16px;
+    }
+    .sec-text p{
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
     .sec-1-right{
         margin-top: 10px;
         width: 100%;
